@@ -57,3 +57,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 Your Name - [manjeetsingh.muz98@gmail.com](manjeet0006)
 
 Project Link: (https://github.com/manjeet0006/calculator)
+
+---
+
+This project was created as part of my internship with Code Alpha.
